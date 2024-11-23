@@ -1,20 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contact Form</title>
-</head>
-<body style="margin:20px; border: 2px solid rgb(234, 229, 229); border-radius: 15px;">
-    <header style="margin: 10px;">
-        <h1 style="text-align: center; background-color: rgb(237, 247, 245);">Contact Form</h1>
+  </head>
+  <body
+    style="
+      margin: 20px;
+      border: 2px solid rgb(234, 229, 229);
+      border-radius: 15px;
+    "
+  >
+    <header style="margin: 10px">
+      <h1 style="text-align: center; background-color: rgb(237, 247, 245)">
+        Contact Form
+      </h1>
     </header>
-    <form action="" style="margin: 25px;">
-        <label for="fname" style="font-weight: 1000; font-size: large;">First Name</label><br>
-        <input type="text" name="fname" style="width: 1170px; height: 30px;"><br>
-        <br>
-        <label for="lname" style="font-weight: 1000; font-size: large;">Last Name</label><br>
-        <input type="text" name="lname" style="width: 1170px; height: 30px;">
+    <form action="" style="margin: 25px">
+      <label for="fname" style="font-weight: 1000; font-size: large"
+        >First Name</label
+      ><br />
+      <input
+        type="text"
+        name="fname"
+        placeholder="Your name..."
+        style="width: 1170px; height: 30px"
+      /><br />
+      <br />
+      <label for="lname" style="font-weight: 1000; font-size: large"
+        >Last Name</label
+      ><br />
+      <input
+        type="text"
+        name="lname"
+        placeholder="Your last name"
+        style="width: 1170px; height: 30px"
+      /><br />
+      <br />
+      <label for="nation" style="font-weight: 1000; font-size: large"
+        >Country</label
+      ><br />
+      <select name="country" style="width: 1170px; height: 30px">
+        <option value="select your country..." default>
+          Please select your country
+        </option>
+        <option value="India">India</option>
+        <option value="AUS">Australia</option>
+        <option value="NEP">Nepal</option>
+        <option value="HK">Hong Kong</option>
+        <option value="KSA">KSA</option>
+        <option value="UAE">UAE</option>
+        <option value="OMN">OMAN</option>
+      </select>
     </form>
-</body>
+  </body>
 </html>
