@@ -2,7 +2,7 @@
 
 # Staring from the Basic
 # Restart
-# This project is to structure a contact page website using HTML. 
+# This project is to structure multiple form pages website using HTML. 
 
 # Goals of this project are:
 
