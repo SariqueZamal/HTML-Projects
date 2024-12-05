@@ -95,6 +95,7 @@
             Close
           </button>
           <button
+          onclick="close()"
             id="opn"
             style="
               position: absolute;
@@ -127,6 +128,10 @@
       function openForm() {
         document.getElementsByClassName('popup').style.display = "none";
         document.getElementById("cls").style.display = "none";
+      }
+      function close() {
+        document.getElementsByClassName('popup').style.display = "block";
+        document.getElementById("opn").style.display = "none";
       }
     </script>
   </body>
