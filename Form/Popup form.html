@@ -18,7 +18,7 @@
     >
       <form action="../Survey Form/success.html" style="margin-top: 25px">
         <div
-          class="popup"
+          id="popup"
           style="
             position: absolute;
             top: 39px;
@@ -73,26 +73,45 @@
             Login
           </button>
         </div>
+      </form>
         <div>
           <button
-            onclick=""
+            id="cls"
+            onclick="openForm()"
             style="
               position: absolute;
               bottom: 11px;
-              right: 43px;
-              width: 27%;
+              right: 41px;
+              width: 27.1%;
               height: 45px;
               font-family: Segoe UI, Arial, sans-serif;
               border: none;
               background-color: rgb(165, 88, 88);
               color: white;
               font-size: 15px;
+              z-index: 1;
             "
           >
             Close
           </button>
+          <button
+            id="opn"
+            style="
+              position: absolute;
+              bottom: 11px;
+              right: 41px;
+              width: 27.1%;
+              height: 45px;
+              font-family: Segoe UI, Arial, sans-serif;
+              border: none;
+              background-color: rgb(137, 125, 125);
+              color: white;
+              font-size: 15px;
+            "
+          >
+            Open Form
+          </button>
         </div>
-      </form>
       <div>
         <h2>Popup Form</h2>
         <h4 style="font-family: Segoe UI, Arial, sans-serif; font-weight: 450">
@@ -104,5 +123,11 @@
         </h4>
       </div>
     </div>
+    <script>
+      function openForm() {
+        document.getElementsByClassName('popup').style.display = "none";
+        document.getElementById("cls").style.display = "none";
+      }
+    </script>
   </body>
 </html>
