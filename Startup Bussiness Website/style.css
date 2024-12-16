@@ -28,7 +28,7 @@ a{
     color: black;
 }
 
-div{
+#logo{
     display: inline-block;
     padding: 150px 0 0 45px;
     color: white;
