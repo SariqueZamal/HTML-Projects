@@ -21,10 +21,11 @@ li{
 
 div{
     display: inline-block;
-    text-align: center;
+    padding: 150px 0 0 45px;
+    color: white;
     width:100%;
     height: 510px;
-    background-image: conic-gradient(rgb(224, 149, 149), rgb(209, 209, 161), rgb(105, 189, 105));
+    background-color: rgb(20, 20, 20);
     
 }
 
