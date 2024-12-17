@@ -5,9 +5,10 @@
 
 nav{
     width:100%;
-    height: 61px;
+    height: 45px;
     position: fixed;
-    top: 0;
+    top:0;
+    background-color: white;
 }
 
 li{
@@ -16,7 +17,7 @@ li{
     width:75px;
     height: 45px;
     text-align: center;
-    padding-top:11px;
+    padding-top:15px;
 }
 
 li:hover{
@@ -29,13 +30,11 @@ a{
 }
 
 #logo{
-    display: inline-block;
     padding: 90px 0 0 55px;
     color: white;
     width:100%;
     height: 510px;
-    background-color: rgb(20, 20, 20);
-    
+    background-color: rgb(20, 20, 20);   
 }
 
 h1{
@@ -50,10 +49,33 @@ h5{
     margin-bottom: 43px;
 }
 
-button{
+#more{
     height: 53px;
     font-size: 17px;
     background-color: rgb(181, 182, 183);
     border: none;
     padding: 17px;
+}
+
+#more:hover{
+    background-color: rgb(219, 221, 222);
+}
+
+#about{
+    padding: 90px 0 0 55px;
+    width:100%;
+    height: 510px;
+    text-align: center; 
+}
+
+#about h2{
+    font-size: 23px;
+    font-weight: 100;
+    margin-bottom: 33px;
+}
+
+#about h5{
+    font-size: 19px;
+    font-weight: 0;
+    margin-bottom: 33px;
 }
