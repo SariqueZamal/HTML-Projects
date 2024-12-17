@@ -79,3 +79,7 @@ h5{
     font-weight: 0;
     margin-bottom: 33px;
 }
+
+#abt{
+display: flex;
+}
