@@ -1,39 +1,74 @@
-#team{
-    padding-top: 75px;
-    text-align: center;
-    width:100%;
-    height: auto;
-    background-color: rgb(148, 98, 47);
+#team {
+  padding-top: 75px;
+  text-align: center;
+  width: 100%;
+  height: auto;
 }
 
-#team h2{
-    padding-left: 39px;
-    font-size: 23px;
-    font-weight: 100;
-    margin-bottom: 27px;
+#team h2 {
+  padding-left: 39px;
+  font-size: 23px;
+  font-weight: 100;
+  margin-bottom: 27px;
 }
 
-#team h5{
-    padding-left: 39px;
-    font-size: 19px;
-    font-weight: 90;
-    margin-bottom: 27px;
+#team h5 {
+  padding-left: 39px;
+  font-size: 19px;
+  font-weight: 90;
+  margin-bottom: 27px;
 }
 
-#tmember{
-    display: flex;
-    max-width: 100%;
-    box-sizing: border-box;
+#tmember {
+  display: flex;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 0 13px 0 13px;
 }
 
-#t1,#t2,#t3,#t4{
-    width:25%;
+#t1,
+#t2,
+#t3,
+#t4 {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  width: 25%;
+  margin: 9px;
 }
 
-#tmember img{
-width:100%;
+#tmember img {
+  width: 100%;
 }
 
-#tmember button{
-    width:90%;
+#tmember button {
+  width: 85%;
+  height: 35px;
+  margin-bottom: 9px;
+  background-color: #f1f1f1;
+  border: none;
+  font-size: 16.3px;
+  font-family: "Raleway", sans-serif;
 }
+
+#tc {
+  text-align: center;
+}
+
+#tc h2 {
+  font-weight: 300;
+  font-size: 23px;
+  margin-top: 17px;
+}
+
+#tc h3 {
+    font-weight: 70px;
+    font-size: 15px;
+    margin-top: -5px;
+  color: #adadad;
+  }
+
+  #tc h5 {
+    font-weight: 70px;
+    font-size: 17px;
+    }
+
+
