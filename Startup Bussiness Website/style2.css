@@ -88,12 +88,13 @@
 
 #sts1,#sts2,#sts3,#sts4 {
   width: 25%;
-  margin: 77px 111px 0 119px;
+  margin: 77px 71px 0 119px;
+  text-align: center;
 }
   
 #sts h3 {
-  font-weight: 70px;
-  font-size: 29px;
+  font-weight: 50px;
+  font-size: 23px;
   color: white;
   font-family: "Raleway", sans-serif;
 }
@@ -103,5 +104,5 @@
   font-weight: 30px;
   color: white;
   margin-top: 11px;
-  font-size: 15px;
+  font-size: 14.7px;
   }
