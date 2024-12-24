@@ -66,10 +66,11 @@
   color: #adadad;
   }
 
-  #tc h5 {
+#tc h5 {
     font-weight: 70px;
     font-size: 17px;
     }
+
 
 #stats {
       padding-top: 125px;
@@ -77,10 +78,30 @@
       height: auto;
     }
 
-#stats div{
+#sts{
   width: 100%;
   height: 210px;
+  display: flex;
   background-color: #616161;
   margin-bottom: 125px ;
 }
 
+#sts1,#sts2,#sts3,#sts4 {
+  width: 25%;
+  margin: 77px 111px 0 119px;
+}
+  
+#sts h3 {
+  font-weight: 70px;
+  font-size: 29px;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+
+#sts h5 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 30px;
+  color: white;
+  margin-top: 11px;
+  font-size: 15px;
+  }
