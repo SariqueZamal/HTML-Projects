@@ -106,3 +106,27 @@
   margin-top: 11px;
   font-size: 14.7px;
   }
+
+  #work {
+    text-align: center;
+    width: 100%;
+    height: auto;
+  }
+  
+  #work h2 {
+    padding-left: 39px;
+    font-size: 23px;
+    font-weight: 100;
+    margin-bottom: 21px;
+  }
+  
+  #work h5 {
+    padding-left: 39px;
+    font-size: 19px;
+    font-weight: 90;
+    margin-bottom: 27px;
+  }
+
+  #wk{
+    margin-bottom: 99px;
+  }
