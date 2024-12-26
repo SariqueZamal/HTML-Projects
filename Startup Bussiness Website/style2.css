@@ -143,3 +143,29 @@
   padding: 51px 9px 9px 41px;
   float: left;
 }
+
+#skill h3 {
+  font-size: 23px;
+  font-weight: 100;
+  margin-bottom: 21px;
+}
+
+#skill h6 {
+  font-size: 17px;
+  font-weight: 90;
+}
+
+#sk2 h5{
+  font-size: 19px;
+  font-weight: 90;
+}
+
+#sk2 div{
+  margin-top: -43px;
+  margin-bottom: 19px;
+  width:610px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  padding-top: 3px;
+}
