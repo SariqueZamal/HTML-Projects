@@ -191,4 +191,26 @@
   background-color: #757575;
   color: white;
   height: auto;
+  text-align: center;
+  padding-top: 109px;
+}
+
+#price h2 {
+  font-size: 23px;
+  font-weight: 90;
+  margin-bottom: 21px;
+}
+
+#prc h3 {
+  font-size: 19.3px;
+  font-weight: 90;
+}
+
+#price h5{
+  font-size: 17.9px;
+  font-weight: 90;
+}
+
+#prc{
+  display: flex;
 }
