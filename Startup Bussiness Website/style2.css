@@ -235,3 +235,21 @@
   font-size: 25px;
   font-weight: 90;
 }
+
+#pro h3{
+  background-color: red;
+  height: 159px;
+  padding-top: 67px;
+  font-size: 25px;
+  font-weight: 90;
+}
+
+#prc h6{
+  background-color: white;
+  color: black;
+  height: 59px;
+  padding-top: 23px;
+  font-size: 14.7px;
+  font-weight: 90;
+  border-bottom: 0.1px dotted;
+}
