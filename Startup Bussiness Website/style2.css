@@ -227,3 +227,11 @@
   height: 563px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
+
+#prc h3{
+  background-color: black;
+  height: 109px;
+  padding-top: 45px;
+  font-size: 25px;
+  font-weight: 90;
+}
