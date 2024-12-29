@@ -277,3 +277,23 @@
   font-weight: 90;
   margin-top: 27px;
 }
+
+#contact {
+  width: 100%;
+  height: auto;
+  padding-top: 87px;
+}
+
+#contact h2 {
+  text-align: center;
+  font-size: 23px;
+  font-weight: 90;
+  margin-bottom: 21px;
+}
+
+#contact h5 {
+  text-align: center;
+  font-size: 19px;
+  font-weight: 90;
+}
+
