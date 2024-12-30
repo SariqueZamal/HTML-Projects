@@ -328,3 +328,26 @@ form button{
  padding-top: 5px;
  border: none;
 }
+
+#map{
+  max-width:97.3%;
+  margin: 0 17px 89px 17px;
+}
+
+footer{
+  display: inline-block;
+  width:100%;
+  padding: 69px 0 19px 0;
+  text-align: center;
+  height: auto;
+  background-color: black;
+  color: white;
+}
+
+footer button{
+  width:9%;
+  height: 43px;
+  font-size: 16.1px;
+  margin-bottom: 21px;
+  border: none;
+}
