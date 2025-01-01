@@ -137,6 +137,10 @@
   margin-bottom: 99px;
 }
 
+#wk img:hover{
+  opacity: 0.6;
+}
+
 #skill {
   width: 100%;
   background-color: rgb(235, 234, 234);
