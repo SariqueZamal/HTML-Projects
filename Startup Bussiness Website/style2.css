@@ -1,4 +1,4 @@
- #team {
+#team {
   padding-top: 75px;
   text-align: center;
   width: 100%;
@@ -280,10 +280,15 @@
   color: white;
   height: 49px;
   border: none;
-  font-size: 15px;
-  width: 95px;
+  font-size: 16.1px;
+  width: 119px;
   font-weight: 90;
   margin-top: 27px;
+}
+
+#prc button:hover{
+  background-color: #cdcccc;
+  color: black;
 }
 
 #contact {
