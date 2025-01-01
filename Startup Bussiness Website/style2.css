@@ -342,6 +342,11 @@ form button{
  border: none;
 }
 
+form button:hover{
+  background-color: #cdcccc;
+  color: black;
+}
+
 #map{
   max-width:97.3%;
   margin: 0 17px 89px 17px;
@@ -363,6 +368,10 @@ footer button{
   font-size: 16.1px;
   margin-bottom: 21px;
   border: none;
+}
+
+footer button:hover{
+  background-color: #cdcccc;
 }
 
 footer h5{
