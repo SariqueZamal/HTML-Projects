@@ -59,5 +59,11 @@ h5{
 
 button{
     margin: 33px;
-    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 11.9px 29px;
+    border: none;
+    border-radius: 9px;
+    font-size: 15px;
+    font-weight: 90;
 }
