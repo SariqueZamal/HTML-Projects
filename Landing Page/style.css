@@ -16,3 +16,19 @@ h2 {
   font-weight: 330;
   margin: 49px 0 17px 0;
 }
+
+h5{
+    font-size: 15px;
+    font-weight: 530;
+    margin-bottom: 35px;
+    color: grey;
+}
+
+#time{
+    width:43%;
+    height: auto;
+    float: left;
+    text-align: right;
+    padding-right: 41px;
+    border-right: 2px solid;
+}
