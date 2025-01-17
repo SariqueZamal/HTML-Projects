@@ -25,7 +25,7 @@ h5{
 }
 
 #time{
-    width:43%;
+    width:45%;
     height: auto;
     float: left;
     text-align: right;
@@ -44,7 +44,7 @@ h5{
     height: 17px;
     border-radius: 50%;
     background-color: black;
-    margin: -17px 0 0 40.7%;
+    margin: -17px 0 0 42.6%;
 }
 
 #change{
@@ -55,4 +55,9 @@ h5{
 #change h5{
     margin-bottom: 49px;
     color: black;
+}
+
+button{
+    margin: 33px;
+    text-align: center;
 }
