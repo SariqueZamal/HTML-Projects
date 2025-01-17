@@ -1,4 +1,18 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  margin: 21px;
+  border: 2px solid;
+  border-radius: 33px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 43px;
+  font-weight: 330;
+  margin: 49px 0 17px 0;
 }
