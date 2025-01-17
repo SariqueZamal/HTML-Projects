@@ -32,3 +32,16 @@ h5{
     padding-right: 41px;
     border-right: 2px solid;
 }
+
+#time h5{
+    margin-top: 49px;
+}
+
+.dot{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background-color: black;
+    margin: -17px 0 0 40.7%;
+}
