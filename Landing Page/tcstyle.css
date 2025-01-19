@@ -34,3 +34,23 @@ h5 {
   border-top: 15px solid black;
   margin-left: 69px;
 }
+
+#t1 img {
+  width: 47%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 19px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+#t1 h3 {
+  margin: 23px 0 7px 0;
+}
+
+h6 {
+  font-size: 15px;
+  font-weight: 90;
+}
