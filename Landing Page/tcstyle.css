@@ -2,3 +2,18 @@
     box-sizing: border-box;
     margin: 0;
 }
+
+body {
+  margin: 39px;
+}
+
+#t1 {
+  width: 29%;
+  height: auto;
+  float: left;
+}
+
+h5 {
+  font-size: 19px;
+  font-weight: 90;
+}
