@@ -54,3 +54,22 @@ h6 {
   font-size: 15px;
   font-weight: 90;
 }
+
+#t2{
+    width: 45%;
+    border: 2px solid;
+    border-radius: 39px;
+    padding: 39px 79px 0 79px;
+}
+
+#t2 img {
+    width: 45%;
+    border-radius: 50%;
+    float: left;
+    margin: 39px 13px 0 0;
+  }
+
+#t2 h3{
+    margin: 63px 0 9px 0;
+}
+
