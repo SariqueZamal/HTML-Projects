@@ -91,3 +91,17 @@ h6 {
   float: left;
   margin-right: 49px;
 }
+
+#testimonial3 {
+  width: 61%;
+  height: 245px;
+  background-color: black;
+  border-radius: 27px;
+  padding: 29px 129px 29px 99px;
+}
+
+#t3 h1 {
+  color: rgb(253, 253, 9);
+  font-size: 53px;
+  margin-bottom: -7px;
+}
