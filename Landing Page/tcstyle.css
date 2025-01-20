@@ -9,7 +9,7 @@ body {
 
 #t12 {
   display: flex;
-  margin-bottom: 59px;
+  margin-bottom: 69px;
 }
 
 #t1 {
@@ -69,7 +69,7 @@ h6 {
 }
 
 #t2 img {
-  width: 45%;
+  width: 39%;
   border-radius: 50%;
   float: left;
   margin: 39px 13px 0 0;
@@ -104,4 +104,19 @@ h6 {
   color: rgb(253, 253, 9);
   font-size: 53px;
   margin-bottom: -7px;
+}
+
+#t3 h3{
+  color: white;
+  margin-bottom: 9px;
+}
+
+#t3 h6{
+  color: grey;
+  font-weight: 650px;
+  margin-bottom: 17px;
+}
+
+#t3 h5{
+  color: white;
 }
