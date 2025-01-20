@@ -78,3 +78,16 @@ h6 {
 #t2 h3 {
   margin: 63px 0 9px 0;
 }
+
+#t3 {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+
+#t3 img {
+  width: 39%;
+  height: 245px;
+  float: left;
+  margin-right: 49px;
+}
