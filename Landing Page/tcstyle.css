@@ -5,14 +5,18 @@
 
 body {
   margin: 99px;
+}
+
+#t12 {
   display: flex;
+  margin-bottom: 59px;
 }
 
 #t1 {
-  width: 45%;
+  width: 35%;
   height: auto;
   float: left;
-  margin-right: 109px;
+  margin-right: 159px;
 }
 
 h5 {
@@ -57,20 +61,20 @@ h6 {
   font-weight: 90;
 }
 
-#t2{
-    width: 45%;
-    border: 2px solid;
-    border-radius: 39px;
-    padding: 39px 79px 0 79px;
+#t2 {
+  width: 45%;
+  border: 2px solid;
+  border-radius: 39px;
+  padding: 39px 79px 0 79px;
 }
 
 #t2 img {
-    width: 45%;
-    border-radius: 50%;
-    float: left;
-    margin: 39px 13px 0 0;
-  }
+  width: 45%;
+  border-radius: 50%;
+  float: left;
+  margin: 39px 13px 0 0;
+}
 
-#t2 h3{
-    margin: 63px 0 9px 0;
+#t2 h3 {
+  margin: 63px 0 9px 0;
 }
