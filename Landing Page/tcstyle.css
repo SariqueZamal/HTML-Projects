@@ -121,3 +121,11 @@ h6 {
 #t3 h5{
   color: white;
 }
+
+#t4{
+  width: 100%;
+  height: auto;
+  padding: 49px 119px 33px 119px;
+  border: 2px solid;
+  border-radius: 27px;
+}
