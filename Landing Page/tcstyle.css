@@ -134,3 +134,16 @@ h6 {
 #t4 h5{
   margin-bottom:53px;
 }
+
+#t4 h2{
+  float:left;
+  margin-left: 19%;
+  margin-right: -31%;
+  margin-top: 16px;
+}
+
+#t4 img {
+  margin-top: -9px;
+  width: 15%;
+  border-radius: 50%;
+}
