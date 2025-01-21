@@ -147,3 +147,14 @@ h6 {
   width: 15%;
   border-radius: 50%;
 }
+
+#t4 h3{
+  display: inline;
+  position: absolute;
+  margin-left: 33px;
+  margin-top: 19px;
+}
+
+#i1{
+  opacity: 0.6;
+}
