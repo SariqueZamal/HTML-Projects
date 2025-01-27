@@ -55,5 +55,13 @@ border-radius: 13px;
   border-bottom: 5px solid grey;
   border-right: 5px solid grey;
   border-radius: 50%;
-  padding: 85px;
+  padding: 95px;
+  margin-bottom: 25px;
+}
+
+#steps{
+  margin-top: 23px;
+  background-color: rgb(219, 218, 218);
+  border-radius: 13px;
+  padding: 27px;
 }
