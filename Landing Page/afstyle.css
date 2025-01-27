@@ -11,6 +11,16 @@ body {
   padding: 65px;
 }
 
+h3{
+  font-size: 21px;
+  font-weight: 90;
+}
+
+h4{
+  font-size: 17.5px;
+  font-weight: 90;
+}
+
 #form {
   width: 65%;
   height: auto;
@@ -24,3 +34,5 @@ body {
   border-radius: 50%;
   padding: 85px;
 }
+
+
