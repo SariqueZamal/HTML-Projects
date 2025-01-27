@@ -39,6 +39,16 @@ font-weight: 90;
 form h4{
   color: red;
 }
+
+button{
+width:65%;
+height: 51px;
+background-color: black;
+color: white;
+border: none;
+border-radius: 13px;
+}
+
 #status {
   border-left: 5px solid black;
   border-top: 5px solid black ;
