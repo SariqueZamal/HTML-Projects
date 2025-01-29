@@ -4,32 +4,41 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tooltip UI</title>
-  </head>
-  <body
-    style="margin: 39px; padding: 49px; border: 3px solid; border-radius: 27px"
-  >
-    <h4
-      style="
-        margin-left: 67%;
+    <style>
+
+      h4{
         font-size: 19.7px;
-        margin-bottom: -9px;
+        margin-bottom: 7px;
         background-color: black;
         color: white;
         text-align: center;
         width: 299px;
         padding: 5px;
         border-radius: 11px;
-      "
-    >
-      Here is everything I have built
-    </h4>
+        visibility: hidden;
+      }
+
+      .tooltip:hover .tip{
+        visibility: visible;
+      }
+
+    </style>
+  </head>
+  <body
+    style="margin: 39px; padding: 49px; border: 3px solid; border-radius: 27px"
+  >
+    
     <nav style="margin: 0 0 29px 63%">
       <ul style="font-size: 25px">
-        <li style="display: inline; float: left">
+        <li style="display: inline;">
           <a
-            href="#"
-            style="text-decoration: none; color: black; margin-right: 27px"
-            >Home</a
+          class="tooltip"
+          href="#"
+          style="text-decoration: none; color: black; margin-right: 27px;">
+          <h4 class="tip">
+            Here is everything I have built
+          </h4>
+          Home</a
           >
           <h2
             style="
