@@ -7,6 +7,11 @@ body{
     background-color: red;
 }
 
+ul{
+    width:110%;
+    margin-left:-10%;
+}
+
 li{
     background-color: white;
     text-decoration-style: none;
@@ -16,4 +21,15 @@ li{
     text-align: center;
     padding-top: 17px;
     height: 55px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+    font-weight: 90;
+}
+
+li:hover{
+    background-color: rgb(228, 228, 228);
 }
