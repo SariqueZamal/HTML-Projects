@@ -1,1 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
 
+body{
+    background-color: red;
+}
+
+li{
+    background-color: white;
+    text-decoration-style: none;
+    display: inline;
+    float:left;
+    width:25%;
+    text-align: center;
+    padding-top: 17px;
+    height: 55px;
+}
