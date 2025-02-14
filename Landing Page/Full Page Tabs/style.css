@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body{
@@ -19,8 +20,9 @@ li{
     float:left;
     width:25%;
     text-align: center;
-    padding-top: 17px;
+    padding-top: 11px;
     height: 55px;
+    margin-bottom: 195px;
 }
 
 a{
@@ -32,4 +34,18 @@ a{
 
 li:hover{
     background-color: rgb(228, 228, 228);
+}
+
+h2{
+    margin-left: 41px;
+    font-size: 41px;
+    color: white;
+}
+
+h5{
+    margin-top: 21px;
+    margin-left: 41px;
+    font-size: 21px;
+    font-weight: 90;
+    color: white; 
 }
