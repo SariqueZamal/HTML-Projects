@@ -29,3 +29,10 @@ a{
     transition: 0.8s;
 }
 
+nav{
+    position: absolute;
+}
+
+#about{
+    background-color: #04AA6D;
+}
