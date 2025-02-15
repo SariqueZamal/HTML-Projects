@@ -1,5 +1,16 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h2 {
+  margin: 99px 0 31px 195px;
+  font-size: 25px;
+}
+
+h5{
+    margin-left: 195px;
+    font-size: 16px;
+    font-weight: 90;
 }
 
