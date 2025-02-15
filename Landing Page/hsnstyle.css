@@ -36,3 +36,15 @@ nav{
 #about{
     background-color: #04AA6D;
 }
+
+#blog{
+    background-color: blue;
+}
+
+#projects{
+    background-color: red;
+}
+
+#contact{
+    background-color: black;
+}
