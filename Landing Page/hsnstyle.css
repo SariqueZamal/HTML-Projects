@@ -4,7 +4,7 @@
 }
 
 h2 {
-  margin: 99px 0 31px 195px;
+  margin: 75px 0 31px 195px;
   font-size: 25px;
 }
 
@@ -47,4 +47,8 @@ nav{
 
 #contact{
     background-color: black;
+}
+
+a:hover{
+    margin-left: 0;
 }
