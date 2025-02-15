@@ -14,3 +14,18 @@ h5{
     font-weight: 90;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 21px;
+    width:225px;
+    height: 45px;
+    margin-bottom: 13px;
+    text-align: center;
+    padding-top: 9px;
+    border-radius: 5px;
+    margin-left: -170px;
+    transition: 0.8s;
+}
+
