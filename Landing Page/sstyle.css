@@ -19,27 +19,6 @@ a{
     font-size: 19px;
 }
 
-*{
-    box-sizing: border-box;
-    margin: 0;
-}
-
-nav{
-    position: fixed;
-    background-color: black;
-    height: 100%;
-    width:15%;
-    padding-top: 25px;
-}
-
-a{
-    display: block;
-    padding: 13px 0 9px 13px;
-    text-decoration: none;
-    color: grey;
-    font-size: 19px;
-}
-
 i{
     margin-right: 9px;
 }
@@ -50,4 +29,9 @@ h2{
     font-size: 27px;
 }
 
-
+h5{
+    position: absolute;
+    margin: 85px 215px 17px 245px;
+    font-size: 17px;
+    font-weight: 90;
+}
