@@ -2,3 +2,20 @@
     box-sizing: border-box;
     margin: 0;
 }
+
+nav{
+    position: fixed;
+    background-color: black;
+    height: 100%;
+    width:15%;
+    padding-top: 25px;
+}
+
+a{
+    display: block;
+    padding: 13px 0 9px 13px;
+    text-decoration: none;
+    color: grey;
+    font-size: 19px;
+}
+
