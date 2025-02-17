@@ -2,3 +2,22 @@
     box-sizing: border-box;
     margin: 0;
 }
+
+nav{
+    background-color: rgb(29, 29, 29);
+}
+
+nav a{
+    text-align: center;
+    display: inline-block;
+    font-size: 19px;
+    padding-top: 13px;
+    width:175px;
+    height: 45px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: grey;
+}
