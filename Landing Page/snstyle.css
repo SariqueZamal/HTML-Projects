@@ -41,3 +41,12 @@ a{
     height: 45px;
     text-align: center;
 }
+
+a:hover{
+    background-color: rgb(143, 142, 142);
+}
+
+main{
+    padding: 0 245px 45px 245px;
+    text-align: justify;
+}
