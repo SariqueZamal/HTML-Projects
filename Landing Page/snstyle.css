@@ -20,3 +20,24 @@ h2{
     margin: 39px;
     text-align: center;
 }
+
+nav{
+    display: block;
+    background-color: rgb(40, 40, 40);
+    height: 45px;
+    position: sticky;
+    top: 0;
+    margin: 69px 0 59px 0;
+    outline: 0.5px solid rgb(40, 40, 40);
+}
+
+a{
+    float:left;
+    width:9%;
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+    padding-top: 9px;
+    height: 45px;
+    text-align: center;
+}
