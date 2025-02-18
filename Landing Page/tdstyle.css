@@ -1,23 +1,31 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
 }
 
-nav{
-    background-color: rgb(29, 29, 29);
+nav {
+  background-color: rgb(29, 29, 29);
 }
 
-nav a{
-    text-align: center;
-    display: inline-block;
-    font-size: 19px;
-    padding-top: 13px;
-    width:175px;
-    height: 45px;
-    color: white;
-    text-decoration: none;
+nav a {
+  text-align: center;
+  display: inline-block;
+  font-size: 19px;
+  padding-top: 13px;
+  width: 125px;
+  height: 45px;
+  color: white;
+  text-decoration: none;
 }
 
-nav a:hover{
-    background-color: grey;
+nav a:hover {
+  background-color: grey;
+}
+
+.dropdown {
+  width: 125px;
+  margin: 0 0 0 387px;
+  position: absolute;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  background-color: white;
 }
