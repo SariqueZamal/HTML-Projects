@@ -2,3 +2,21 @@
     box-sizing: border-box;
     margin: 0;
 }
+
+h1{
+    padding-top: 65px;
+    font-size: 47px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+h5{
+    font-size: 23px;
+    font-weight: 90;
+}
+
+h2{
+    font-size: 35px;
+    margin: 39px;
+    text-align: center;
+}
