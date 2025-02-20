@@ -63,3 +63,17 @@ h4 {
   font-size: 25px;
   margin-bottom: 9px;
 }
+
+#details h6 {
+  font-size: 11px;
+  width: 100%;
+  font-weight: 90;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#details h6:hover {
+  overflow: auto;
+  white-space: wrap;
+}
