@@ -3,3 +3,7 @@
   margin: 0;
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+body{
+    padding: 35px;
+}
