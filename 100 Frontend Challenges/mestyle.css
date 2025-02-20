@@ -77,3 +77,16 @@ h4 {
   overflow: auto;
   white-space: wrap;
 }
+
+#buy {
+  margin-top: 27px;
+  width: 11%;
+  height: 45%;
+  float: right;
+  padding-top: 7px;
+}
+
+#buy h6 {
+  font-size: 13px;
+  font-weight: 90;
+}
