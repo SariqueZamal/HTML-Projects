@@ -39,10 +39,10 @@ h4 {
 }
 
 #date {
-  width: 7%;
+  width: 8.5%;
   height: 100%;
   float: left;
-  margin-right: 21px;
+  margin-right: 17px;
   padding: 15px 5px 0 5px;
 }
 
@@ -53,7 +53,7 @@ h4 {
 
 #details {
   text-align: justify;
-  width: 78%;
+  width: 77%;
   height: 100%;
   float: left;
 }
@@ -79,11 +79,14 @@ h4 {
 }
 
 #buy {
-  margin-top: 27px;
+  margin-top: 29px;
   width: 11%;
   height: 45%;
   float: right;
-  padding-top: 7px;
+  padding-top: 11.5px;
+  background-color: black;
+  border-radius: 7px;
+  color: white;
 }
 
 #buy h6 {
