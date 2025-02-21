@@ -32,3 +32,23 @@ h2 {
   float: left;
   font-size: 21px;
 }
+
+h5 {
+  position: absolute;
+  width: 13%;
+  margin-top: 39.5%;
+  font-size: 11px;
+  background-color: black;
+  color: white;
+  padding: 7px;
+}
+
+#product{
+  display: flex;
+}
+
+#description{
+  width:62%;
+  border: 2px solid;
+  padding: 145px 0 35px 25px;
+}
