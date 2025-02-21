@@ -70,3 +70,15 @@ h5 {
   float: left;
   margin-right: 17px;
 }
+
+#level i{
+  float:left;
+  margin: 2px 7px 0 0;
+  font-size: 17px;
+}
+
+#badget i{
+  float:left;
+  margin: 2px 7px 0 0;
+  font-size: 17px;
+}
