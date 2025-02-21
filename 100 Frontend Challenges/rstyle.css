@@ -52,3 +52,21 @@ h5 {
   border: 2px solid;
   padding: 145px 0 35px 25px;
 }
+
+#time{
+  width:15%;
+  float: left;
+  margin-right: 17px;
+}
+
+#time i{
+  float:left;
+  margin: 2px 7px 0 0;
+  font-size: 17px;
+}
+
+#level{
+  width:15%;
+  float: left;
+  margin-right: 17px;
+}
