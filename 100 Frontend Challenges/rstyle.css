@@ -4,6 +4,19 @@
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
-body{
-    padding: 35px;
+body {
+  padding: 17px 55px;
+}
+
+img {
+  width: 38%;
+  float: left;
+}
+
+#title {
+  position: absolute;
+  width: 30%;
+  margin: 45px 0 35px 335px;
+  background-color: white;
+  padding: 9px 5px 9px 17px;
 }
