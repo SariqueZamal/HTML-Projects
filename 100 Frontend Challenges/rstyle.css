@@ -37,7 +37,7 @@ h2 {
 h5 {
   position: absolute;
   width: 13%;
-  margin-top: 39.5%;
+  margin-top: 43%;
   font-size: 11px;
   background-color: black;
   color: white;
@@ -50,8 +50,7 @@ h5 {
 
 #description{
   width:62%;
-  border: 2px solid;
-  padding: 145px 0 35px 25px;
+  padding: 145px 65px 35px 25px;
 }
 
 #time{
@@ -82,4 +81,38 @@ h5 {
   float:left;
   margin: 2px 7px 0 0;
   font-size: 17px;
+}
+
+#details{
+  margin-top: 31px;
+}
+
+h4{
+  margin-bottom: 15px;
+}
+
+input{
+  float: left;
+  accent-color: rgb(232, 232, 3);
+  font-size: 0.63em;
+  text-align: center;
+  margin-top: -1.5px;
+  margin-right: 5px;
+}
+
+input[type="checkbox"]:checked:after{
+  content: '\2713';
+  color:  white;
+}
+
+#details h6{
+  margin-bottom: 9px;
+}
+
+#ins{
+  margin: 23px 0 15px 0;
+}
+
+li{
+  margin: 7px 0 0 -9px;
 }
