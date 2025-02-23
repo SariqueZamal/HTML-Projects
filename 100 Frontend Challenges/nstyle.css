@@ -20,6 +20,12 @@ body {
   padding: 55px 25px 95px 25px;
 }
 
+img {
+  width: 43%;
+  float: left;
+  margin: 0 25px 0 13px;
+}
+
 h4 {
   font-size: 16px;
   font-weight: 90;
@@ -36,8 +42,17 @@ i {
   margin: 17px 0 0 5px;
   font: 7px;
 }
-img {
-  width: 43%;
-  float: left;
-  margin: 0 25px 0 13px;
+
+input {
+  width: 49%;
+  margin: 13px 0 15px 0;
+  padding: 3.5px 0 3px 25px;
+}
+
+button {
+  width: 49%;
+  background-color: rgb(244, 230, 82);
+  height: 25px;
+  font-size: 15px;
+  border: none;
 }
