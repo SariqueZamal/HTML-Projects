@@ -13,3 +13,13 @@ h2 {
   width: 31%;
   float: left;
 }
+
+a {
+  color: grey;
+  margin-right: 29px;
+}
+
+i {
+  color: grey;
+  margin-right: 9px;
+}
