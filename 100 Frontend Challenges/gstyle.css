@@ -33,7 +33,7 @@ nav {
   height: auto;
   background-color: white;
   position: absolute;
-  top:65%;
+  top: 57%;
   padding: 11px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   border-radius: 7px;
@@ -52,7 +52,41 @@ nav {
   margin: 0 -7px 9px 0;
 }
 
-#review h6{
-    font-size: 9px;
-    color: grey;
+#review h6 {
+  font-size: 9px;
+  color: grey;
+}
+
+#description {
+  position: absolute;
+  margin: 11% 0 0 39%;
+  width: 25%;
+  height: auto;
+  color: rgb(2, 81, 2);
+}
+
+#description h2 {
+  width: 100%;
+  float: none;
+  font-size: 35px;
+  margin-bottom: 19px;
+}
+
+#description img {
+  margin: 19px 0 21px -9px;
+  width: 71%;
+}
+
+#arrow {
+  width: 5%;
+  height: auto;
+  background-color: white;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  display: inline-block;
+}
+
+#arrow i {
+  font-size: 9px;
+  padding-left: 3px;
+  color: black;
 }
