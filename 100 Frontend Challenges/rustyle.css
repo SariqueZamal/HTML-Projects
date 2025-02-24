@@ -13,3 +13,13 @@ body {
   background-color: rgb(234, 226, 140);
   padding: 175px 275px 175px 275px;
 }
+
+#content {
+  background-color: rgb(241, 240, 240);
+  padding: 17px;
+}
+
+h2 {
+  font-size: 27px;
+  margin-bottom: 15px;
+}
