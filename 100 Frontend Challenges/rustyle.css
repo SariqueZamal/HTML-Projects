@@ -23,3 +23,14 @@ h2 {
   font-size: 27px;
   margin-bottom: 15px;
 }
+
+h6 {
+  font-size: 11px;
+  color: grey;
+  margin-bottom: 13px;
+}
+
+img {
+  width: 75%;
+  margin-bottom: 7px;
+}
