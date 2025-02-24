@@ -34,3 +34,13 @@ img {
   width: 75%;
   margin-bottom: 7px;
 }
+
+#emoji h6 {
+  float: left;
+}
+
+a {
+  color: rgb(203, 8, 8);
+  text-decoration: none;
+  margin-bottom: 17px;
+}
