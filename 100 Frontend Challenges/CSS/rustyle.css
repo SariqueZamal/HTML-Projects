@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: center;
+}
+
+body {
+  padding: 21px 175px;
+}
+
+#box {
+  background-color: rgb(234, 226, 140);
+  padding: 175px 275px 175px 275px;
+}
+
+#content {
+  background-color: rgb(241, 240, 240);
+  padding: 17px;
+}
+
+h2 {
+  font-size: 27px;
+  margin-bottom: 15px;
+}
+
+h6 {
+  font-size: 11px;
+  color: grey;
+  margin-bottom: 13px;
+}
+
+img {
+  width: 75%;
+  margin-bottom: 7px;
+}
+
+#emoji h6 {
+  float: left;
+}
+
+a {
+  color: rgb(203, 8, 8);
+  text-decoration: none;
+  margin-bottom: 17px;
+}
