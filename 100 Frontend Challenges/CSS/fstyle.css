@@ -29,3 +29,13 @@ body {
   border-radius: 7px;
   padding: 33px 15px 19px 15px;
 }
+
+h2 {
+  margin-bottom: 27px;
+}
+
+img {
+  width: 6%;
+  float: left;
+  margin: 3px 9px 0 0;
+}
