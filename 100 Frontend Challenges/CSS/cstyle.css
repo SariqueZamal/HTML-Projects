@@ -1,4 +1,13 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
-}
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  body {
+    padding: 145px 195px 145px 195px;
+  }
+
+  div{
+    background-image: url(../Image/Background.jpg);
+  }
