@@ -1,8 +1,15 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 body {
-  padding: 21px 175px;
+  padding: 145px 395px 145px 235px;
+}
+
+#app{
+    width:45%;
+    float: left;
+    margin-right: 75px;
 }
