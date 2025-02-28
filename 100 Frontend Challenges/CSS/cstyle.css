@@ -21,3 +21,13 @@
     color: white;
     margin-bottom: 11px;
   }
+
+  h2{
+    font-size: 31px;
+    margin-bottom: 23px;
+  }
+
+  label{
+    position: absolute;
+    font-size: 7px;
+  }
