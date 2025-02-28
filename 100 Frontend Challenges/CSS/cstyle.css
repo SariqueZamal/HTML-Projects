@@ -11,3 +11,13 @@
   div{
     background-image: url(../Image/Background.jpg);
   }
+
+ main{
+    width:45%;
+    padding: 25vh 0 25vh 3.5vw;
+  }
+
+  h5{
+    color: white;
+    margin-bottom: 11px;
+  }
