@@ -10,7 +10,7 @@ body {
 
 #container {
   background-color: rgb(225, 240, 253);
-  padding: 45px 295px 45px 295px;
+  padding: 45px 303px 45px 303px;
   border-radius: 7px;
 }
 
@@ -25,4 +25,8 @@ img {
   border-radius: 9px;
   float: left;
   margin-right: 11px;
+}
+
+i{
+    font-size: 11px;
 }
