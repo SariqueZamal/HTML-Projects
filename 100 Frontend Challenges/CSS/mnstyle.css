@@ -30,3 +30,13 @@ img {
 i{
     font-size: 11px;
 }
+
+h6{
+    font-size: 10px;
+}
+
+.icon{
+    background-color:rgb(225, 240, 253);
+    display: inline;
+    float: left;
+}
