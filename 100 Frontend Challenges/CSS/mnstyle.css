@@ -13,3 +13,16 @@ body {
   padding: 45px 295px 45px 295px;
   border-radius: 7px;
 }
+
+#content {
+  padding: 27px 11px 33px 11px;
+  background-color: white;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+img {
+  width: 12%;
+  border-radius: 9px;
+  float: left;
+  margin-right: 11px;
+}
