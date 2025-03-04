@@ -25,3 +25,13 @@ body {
 img{
     width:7%;
 }
+
+h5 {
+  margin-bottom: 7px;
+}
+
+h6 {
+  font-size: 10px;
+  margin-bottom: 17px;
+  font-weight: 90;
+}
