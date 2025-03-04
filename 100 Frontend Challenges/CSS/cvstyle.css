@@ -5,12 +5,12 @@
 }
 
 body {
-  padding: 55px 195px 55px 195px;
+  padding: 33px 195px 33px 195px;
 }
 
 #container {
   background-color: rgb(250, 221, 226);
-  padding: 45px 305px 45px 305px;
+  padding: 125px 305px 125px 305px;
   border-radius: 7px;
 }
 
