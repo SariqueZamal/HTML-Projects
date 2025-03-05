@@ -1,4 +1,15 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+  padding: 33px 195px 33px 195px;
+}
+
+#container {
+  background-color: rgb(238, 238, 136);
+  padding: 65px 325px 65px 325px;
+  border-radius: 7px;
 }
