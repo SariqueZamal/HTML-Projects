@@ -5,7 +5,7 @@
 }
 
 body {
-  padding: 33px 195px 33px 195px;
+  padding: 48px 195px 48px 195px;
 }
 
 #container {
@@ -23,12 +23,12 @@ body {
 }
 
 #profile {
-  padding-top: 17px;
+  padding-top: 23px;
   border-radius: 13px;
   height: 105px;
   width: 100%;
   background: rgb(188, 92, 92);
-  margin-bottom: 23px;
+  margin-bottom: 27px;
 }
 
 img {
