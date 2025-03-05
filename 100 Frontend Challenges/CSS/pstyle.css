@@ -13,3 +13,20 @@ body {
   padding: 65px 325px 65px 325px;
   border-radius: 7px;
 }
+
+#content {
+  background-color: white;
+  padding-top: 0.3px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 13px;
+  text-align: center;
+}
+
+#profile {
+  padding-top: 17px;
+  border-radius: 13px;
+  height: 105px;
+  width: 100%;
+  background: rgb(188, 92, 92);
+  margin-bottom: 23px;
+}
