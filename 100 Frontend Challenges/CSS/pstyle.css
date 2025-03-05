@@ -42,11 +42,18 @@ h6 {
 }
 
 i {
-  margin: 0 7px 15px 5px;
+  margin: 0 7px 18px 5px;
 }
 
 h5 {
   font-size: 11px;
   padding: 0 11px 0 10px;
-  margin-bottom: 23px;
+  margin-bottom: 25px;
+}
+
+button{
+  width:99px;
+  height: 25px;
+  margin-bottom: 33px;
+  border-radius: 13px;
 }
