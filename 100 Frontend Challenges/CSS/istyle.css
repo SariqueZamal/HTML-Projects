@@ -22,12 +22,14 @@ body {
     display: inline-block;
 }
 
-.box3{
-    width:100%;
-    background-color: white;
-}
 .box2{
     display: inline-block;
     background-color: white;
     width:47.5%;
+    margin-bottom: 19px;
+}
+
+.box3{
+    width:100%;
+    background-color: white;
 }
