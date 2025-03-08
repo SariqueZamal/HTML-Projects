@@ -22,6 +22,10 @@ body {
     display: inline-block;
 }
 
+.box3{
+    width:100%;
+    background-color: white;
+}
 .box2{
     display: inline-block;
     background-color: white;
