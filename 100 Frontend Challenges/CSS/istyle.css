@@ -15,21 +15,25 @@ body {
   padding: 75px 65px;
 }
 
-.box1{
-    width:47.5%;
-    background-color: white;
-    margin-right: 41.3px;
-    display: inline-block;
+.box {
+  padding: 15px 11px;
 }
 
-.box2{
-    display: inline-block;
-    background-color: white;
-    width:47.5%;
-    margin-bottom: 19px;
+#box1 {
+  width: 47.5%;
+  background-color: white;
+  margin-right: 41.3px;
+  display: inline-block;
 }
 
-.box3{
-    width:100%;
-    background-color: white;
+#box2 {
+  display: inline-block;
+  background-color: white;
+  width: 47.5%;
+  margin-bottom: 19px;
+}
+
+#box3 {
+  width: 100%;
+  background-color: white;
 }
