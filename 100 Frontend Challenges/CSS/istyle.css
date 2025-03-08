@@ -20,6 +20,10 @@ body {
   border-radius: 9px;
 }
 
+.box h5{
+  margin-bottom: 9px;
+}
+
 #box1 {
   width: 45%;
   background-color: white;
@@ -44,7 +48,29 @@ body {
   color: grey;
 }
 
+#gt{
+  float: right;
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  margin-top: -27px;
+  font-size: 15px;
+  font-weight: 90;
+  background-color: rgb(58, 58, 103);
+}
+
 #box3 {
-  width: 99%;
+  width: 98.5%;
   background-color: white;
+}
+
+#box3 h5{
+  float: left;
+  margin: 5px 168.1px 13px 0;
+}
+
+button{
+  width: 152.7px;
+  padding: 3px;
+  border-radius: 5px;
 }
