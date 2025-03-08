@@ -5,35 +5,46 @@
 }
 
 body {
-  padding: 65px;
+  padding: 65px 195px;
 }
 
 .container {
   background-color: rgb(214, 210, 225);
   border-radius: 7px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  padding: 75px 65px;
+  padding: 75px 155px;
 }
 
 .box {
   padding: 15px 11px;
+  border-radius: 9px;
 }
 
 #box1 {
-  width: 47.5%;
+  width: 45%;
   background-color: white;
   margin-right: 41.3px;
   display: inline-block;
 }
 
+#box1 span{
+  color: grey;
+}
+
 #box2 {
   display: inline-block;
   background-color: white;
-  width: 47.5%;
+  width: 45%;
   margin-bottom: 19px;
+  background-color: rgb(28, 28, 61);
+  color: white;
+}
+
+#box2 span{
+  color: grey;
 }
 
 #box3 {
-  width: 100%;
+  width: 99%;
   background-color: white;
 }
