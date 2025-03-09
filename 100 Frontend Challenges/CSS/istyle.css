@@ -81,23 +81,33 @@ input {
 }
 
 h6 {
-  display: inline;
+  display: inline-block;
+  margin-right: -9px;
+}
+
+.one{
+  width: 125px;
+  background-color: grey;
 }
 
 .two {
-  margin-left: 67px;
+  background-color: grey;
+  width: 135px;
 }
 
 .three {
-  margin-left: 87px;
+  background-color: grey;
+  width: 75px;
 }
 
 .four {
-  margin-left: 27px;
+  background-color: grey;
+  width: 65px;
 }
 
 .five {
-  margin-left: 37px;
+  background-color: grey;
+  width: 109px;
 }
 
 .field{
