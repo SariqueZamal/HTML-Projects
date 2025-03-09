@@ -66,18 +66,18 @@ body {
 
 #box3 h5 {
   float: left;
-  margin: 5px 168.1px 13px 0;
+  margin: 5px 163px 13px 0;
 }
 
 button {
-  width: 152.7px;
+  width: 147px;
   padding: 3px;
   border-radius: 5px;
 }
 
 input {
   float: left;
-  margin: 3px 9px 0 0;
+  margin: 3px 7px 0 0;
 }
 
 h6 {
@@ -86,23 +86,23 @@ h6 {
 }
 
 .one{
-  width: 125px;
+  width: 123px;
   background-color: grey;
 }
 
 .two {
   background-color: grey;
-  width: 135px;
+  width: 121px;
 }
 
 .three {
   background-color: grey;
-  width: 75px;
+  width: 83px;
 }
 
 .four {
   background-color: grey;
-  width: 65px;
+  width: 71px;
 }
 
 .five {
@@ -111,6 +111,6 @@ h6 {
 }
 
 .field{
-  height: 25px;
+  height: 27px;
   padding-top: 4px;
 }
