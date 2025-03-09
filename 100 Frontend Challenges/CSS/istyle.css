@@ -20,7 +20,7 @@ body {
   border-radius: 9px;
 }
 
-.box h5{
+.box h5 {
   margin-bottom: 9px;
 }
 
@@ -31,7 +31,7 @@ body {
   display: inline-block;
 }
 
-#box1 span{
+#box1 span {
   color: grey;
 }
 
@@ -44,11 +44,11 @@ body {
   color: white;
 }
 
-#box2 span{
+#box2 span {
   color: grey;
 }
 
-#gt{
+#gt {
   float: right;
   width: 15px;
   height: 15px;
@@ -64,13 +64,43 @@ body {
   background-color: white;
 }
 
-#box3 h5{
+#box3 h5 {
   float: left;
   margin: 5px 168.1px 13px 0;
 }
 
-button{
+button {
   width: 152.7px;
   padding: 3px;
   border-radius: 5px;
+}
+
+input {
+  float: left;
+  margin: 3px 9px 0 0;
+}
+
+h6 {
+  display: inline;
+}
+
+.two {
+  margin-left: 67px;
+}
+
+.three {
+  margin-left: 87px;
+}
+
+.four {
+  margin-left: 27px;
+}
+
+.five {
+  margin-left: 37px;
+}
+
+.field{
+  height: 25px;
+  padding-top: 4px;
 }
