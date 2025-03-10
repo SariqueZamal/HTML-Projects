@@ -12,7 +12,7 @@ body {
   background-color: rgb(214, 210, 225);
   border-radius: 7px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  padding: 75px 155px;
+  padding: 75px 115px;
 }
 
 .box {
@@ -39,7 +39,7 @@ body {
   display: inline-block;
   background-color: white;
   width: 45%;
-  margin-bottom: 19px;
+  margin-bottom: 29px;
   background-color: rgb(28, 28, 61);
   color: white;
 }
@@ -66,7 +66,7 @@ body {
 
 #box3 h5 {
   float: left;
-  margin: 5px 163px 13px 0;
+  margin: 5px 243px 13px 0;
 }
 
 button {
@@ -77,37 +77,37 @@ button {
 
 input {
   float: left;
-  margin: 3px 7px 0 0;
+  margin: 3px 5px 0 0;
 }
 
 h6 {
   display: inline-block;
-  margin-right: -9px;
+  margin-right: -9.3px;
 }
 
 .one{
-  width: 123px;
+  width: 127px;
   background-color: grey;
 }
 
 .two {
   background-color: grey;
-  width: 121px;
+  width: 175px;
 }
 
 .three {
   background-color: grey;
-  width: 83px;
+  width: 91px;
 }
 
 .four {
   background-color: grey;
-  width: 71px;
+  width: 95px;
 }
 
 .five {
   background-color: grey;
-  width: 109px;
+  width: 107px;
 }
 
 .field{
