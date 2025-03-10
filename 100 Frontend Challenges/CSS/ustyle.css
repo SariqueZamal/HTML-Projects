@@ -13,17 +13,19 @@ body {
   border-radius: 7px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   padding: 145px 85px;
+  /* display: flex; */
 }
 
 .box{
-    padding: 13px 7px;
+    padding: 19px 13px;
+    /* background-color: white; */
 }
 
 #box1{
-    background-color: white;
     width: 45%;
     float: left;
     margin-right: 45px;
+    background-color: white;
 }
 
 img{
@@ -32,6 +34,13 @@ img{
 
 #box2{
     width:45%;
-    background-color: white;
     float: left;
+    margin-bottom: 13px;
+    background-color: white;
+}
+
+#box3{
+    display: inline-block;
+    width: 29%;
+    background-color: white;
 }
