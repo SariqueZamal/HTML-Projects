@@ -12,7 +12,7 @@ body {
   background-color: rgb(227, 240, 250);
   border-radius: 7px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  padding: 145px 85px;
+  padding: 145px 75px;
 }
 
 .box {
@@ -99,7 +99,7 @@ img {
 }
 
 #box2 {
-  width: 45%;
+  width: 47%;
   float: left;
   margin-bottom: 23px;
   background-color: white;
@@ -116,6 +116,18 @@ img {
 
 #box3 {
   display: inline-block;
-  width: 29%;
+  width: 31%;
   background-color: white;
+}
+
+#box3 h6{
+  font-size: 8.5px;
+  margin-bottom: 9px;
+}
+
+button{
+  width:35%;
+  font-size: 8.5px;
+  font-weight: bolder;
+  padding: 5px;
 }
