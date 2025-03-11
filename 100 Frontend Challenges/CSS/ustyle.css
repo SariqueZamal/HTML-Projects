@@ -101,7 +101,7 @@ img {
 #box2 {
   width: 47%;
   float: left;
-  margin-bottom: 23px;
+  margin-bottom: 30px;
   background-color: white;
 }
 
@@ -130,4 +130,5 @@ button{
   font-size: 8.5px;
   font-weight: bolder;
   padding: 5px;
+  margin-bottom: 7px;
 }
