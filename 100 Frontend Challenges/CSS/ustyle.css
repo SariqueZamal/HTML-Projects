@@ -70,7 +70,7 @@ img {
 
 #upload i{
     font-size: 7px;
-    vertical-align: top;
+    vertical-align:top;
 }
 
 #upload span{
@@ -79,6 +79,20 @@ img {
     height: 11px;
     padding: 3.3px;
     border-radius: 50%;
+}
+
+#blue1{
+  width:25%;
+  height: 7px;
+  background-color: blue;
+  float: left;
+}
+
+#grey{
+  width:45%;
+  height: 7px;
+  float: left;
+  background-color: rgb(240, 239, 239);
 }
 
 #box2 {
