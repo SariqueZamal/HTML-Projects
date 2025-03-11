@@ -56,7 +56,29 @@ h5 {
 }
 
 img {
-  width: 12%;
+  width: 21%;
+  float: left;
+  margin-right: 5px;
+}
+
+#upload{
+    border: 1.5px solid rgb(215, 213, 213);
+    margin-bottom: 9px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+#upload i{
+    font-size: 7px;
+    vertical-align: top;
+}
+
+#upload span{
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    padding: 3.3px;
+    border-radius: 50%;
 }
 
 #box2 {
