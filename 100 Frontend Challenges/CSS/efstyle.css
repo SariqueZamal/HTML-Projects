@@ -41,3 +41,10 @@ img {
   border-bottom-right-radius: 9px;
   border-bottom-left-radius: 9px;
 }
+
+.tab {
+  width: 99px;
+  height: 29px;
+  float: left;
+  padding: 9px;
+}
