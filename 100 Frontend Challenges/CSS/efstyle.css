@@ -48,3 +48,9 @@ img {
   float: left;
   padding: 9px;
 }
+
+i {
+  font-size: 9px;
+  float: left;
+  margin-right: 5px;
+}
