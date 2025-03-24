@@ -22,9 +22,9 @@ img {
 
 #head {
   background-color: white;
-  width: 25%;
+  width: 24%;
   margin-left: 29px;
-  height: 39px;
+  height: 29px;
   top: 195px;
   position: absolute;
   border-top-left-radius: 9px;
@@ -35,7 +35,7 @@ img {
   width: 57%;
   margin-left: 29px;
   height: 129px;
-  top: 234px;
+  top: 224px;
   position: absolute;
   border-top-right-radius: 9px;
   border-bottom-right-radius: 9px;
@@ -53,4 +53,11 @@ i {
   font-size: 9px;
   float: left;
   margin-right: 5px;
+}
+
+#flight {
+  background-color: rgb(86, 86, 237);
+  width:83px;
+  margin-right: 17px;
+  border-top-left-radius: 9px;
 }
