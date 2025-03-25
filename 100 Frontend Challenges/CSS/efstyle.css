@@ -64,12 +64,12 @@ i {
 }
 
 h5 {
-  margin-bottom: 15px;
+  margin-bottom: 11px;
 }
 
-input {
-  height: 13px;
-  width: 13px;
+input[type="radio"] {
+  height: 11px;
+  width: 11px;
   border-radius: 50%;
 }
 
@@ -78,5 +78,14 @@ input {
 }
 
 label {
+  margin-left: 3px;
+  margin-right: 19px;
+  padding-top: 1px;
   float: right;
+}
+
+#search{
+  margin-top: 7px;
+  width:100%;
+  background-color: grey;
 }
