@@ -84,8 +84,14 @@ label {
   float: right;
 }
 
+.field{
+  float: left;
+}
+
 #search{
   margin-top: 7px;
   width:100%;
+  padding: 3px;
+  height: 27px;
   background-color: grey;
 }
