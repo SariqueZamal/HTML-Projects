@@ -58,7 +58,25 @@ i {
 
 #flight {
   background-color: rgb(86, 86, 237);
-  width:83px;
+  width: 83px;
   margin-right: 17px;
   border-top-left-radius: 9px;
+}
+
+h5 {
+  margin-bottom: 15px;
+}
+
+input {
+  height: 13px;
+  width: 13px;
+  border-radius: 50%;
+}
+
+.radio {
+  float: left;
+}
+
+label {
+  float: right;
 }
