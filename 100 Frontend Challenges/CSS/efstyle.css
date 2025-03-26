@@ -111,3 +111,8 @@ label {
   font-size: 9px;
   margin: 9px 0 0 7px;
 }
+
+a{
+  text-decoration: none;
+  font-size: 12px;
+}
