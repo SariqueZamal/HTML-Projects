@@ -34,7 +34,7 @@ img {
   background-color: white;
   width: 57%;
   margin-left: 29px;
-  height: 129px;
+  height: 149px;
   top: 224px;
   position: absolute;
   border-top-right-radius: 9px;
@@ -104,6 +104,7 @@ label {
   height: 33px;
   background-color: rgb(193, 193, 193);
   border-radius: 3px;
+  margin-bottom: 9px;
 }
 
 #search i {
@@ -115,4 +116,14 @@ label {
 a{
   text-decoration: none;
   font-size: 12px;
+}
+
+button{
+  width: 105px;
+  font-size: 12px;
+}
+
+button i{
+  float: left;
+  margin-left: 9px;
 }
