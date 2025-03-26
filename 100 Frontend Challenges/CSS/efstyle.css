@@ -61,10 +61,11 @@ img {
   width: 83px;
   margin-right: 17px;
   border-top-left-radius: 9px;
+  color: white;
 }
 
 h5 {
-  margin-bottom: 11px;
+  margin-bottom: 13px;
 }
 
 input[type="radio"] {
@@ -123,9 +124,13 @@ button{
   font-size: 12px;
   height: 27px;
   float: right;
+  background-color: rgb(86, 86, 237);
+  color: white;
+  border: none;
+  border-radius: 3px;
 }
 
 button i{
   float: left;
-  margin-left: 9px;
+  margin-left: 13px;
 }
