@@ -50,7 +50,7 @@ img {
   padding: 9px;
 }
 
-i {
+#head i {
   font-size: 9px;
   float: left;
   margin-right: 5px;
@@ -73,6 +73,10 @@ input[type="radio"] {
   border-radius: 50%;
 }
 
+input[type="text"] {
+  padding-left: 17px;
+}
+
 .radio {
   float: left;
 }
@@ -84,14 +88,19 @@ label {
   float: right;
 }
 
-.field{
+.field {
   float: left;
 }
 
-#search{
+#search {
   margin-top: 7px;
-  width:100%;
-  padding: 3px;
+  width: 100%;
+  padding: 3.5px;
   height: 27px;
   background-color: grey;
+}
+
+#search i {
+  position: absolute;
+  font-size: 9px;
 }
