@@ -69,10 +69,13 @@ h5{
 
 #bell i{
     color: white;
-    float: left;
 }
 
 h6{
     margin-left: 33px;
     margin-bottom: 17px;
+}
+
+button{
+    width: 25%;
 }
