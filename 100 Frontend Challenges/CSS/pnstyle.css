@@ -19,5 +19,14 @@ body {
 .shadow{
     background-color: green;
     width: 100%;
-    height: 25vh;
+    height: 19vh;
+}
+
+.content{
+    position: absolute;
+    background-color: white;
+    width: 22%;
+    height: 19vh;
+    top: 26vh;
+    left: 38vw;
 }
