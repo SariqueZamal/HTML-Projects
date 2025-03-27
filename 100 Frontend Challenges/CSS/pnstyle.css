@@ -3,3 +3,15 @@
   margin: 0;
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+body {
+  padding: 39px 245px;
+}
+
+.container{
+    background-color: rgb(162, 240, 162);
+    width: 100%;
+    height: 86vh;
+    border-radius: 9px;
+}
+
