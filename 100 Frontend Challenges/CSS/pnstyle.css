@@ -8,25 +8,29 @@ body {
   padding: 39px 245px;
 }
 
-.container{
-    background-color: rgb(162, 240, 162);
-    width: 100%;
-    height: 86vh;
-    border-radius: 9px;
-    padding: 125px 255px;
+.container {
+  background-color: rgb(162, 240, 162);
+  width: 100%;
+  height: 86vh;
+  border-radius: 9px;
+  padding: 125px 235px;
 }
 
-.shadow{
-    background-color: green;
-    width: 100%;
-    height: 19vh;
+.shadow {
+  background-color: green;
+  width: 100%;
+  height: 19vh;
+  border-radius: 13px;
 }
 
-.content{
-    position: absolute;
-    background-color: white;
-    width: 22%;
-    height: 19vh;
-    top: 26vh;
-    left: 38vw;
+.content {
+  position: absolute;
+  background-color: white;
+  width: 25%;
+  height: 19vh;
+  top: 26vh;
+  left: 36.5vw;
+  border-radius: 13px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  padding: 21px 13px 13px 13px;
 }
