@@ -33,3 +33,49 @@ body {
   background-color: rgb(244, 242, 242);
   padding: 10px;
 }
+
+.grid {
+  display: grid;
+  grid-template-areas:
+    "find find find find description description"
+    "find find find find description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
+    "search search search search description description";
+  gap: 10px;
+}
