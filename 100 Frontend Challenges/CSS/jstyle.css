@@ -16,14 +16,20 @@ body {
   padding: 45px;
 }
 
-.find{
-    grid-area: find;
+.find {
+  grid-area: find;
+  background-color: rgb(244, 242, 242);
+  padding: 10px;
 }
 
-.search{
-    grid-area: search;
+.search {
+  grid-area: search;
+  background-color: rgb(244, 242, 242);
+  padding: 10px;
 }
 
-.description{
-    grid-area: description;
+.description {
+  grid-area: description;
+  background-color: rgb(244, 242, 242);
+  padding: 10px;
 }
