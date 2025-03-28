@@ -15,3 +15,15 @@ body {
   border-radius: 9px;
   padding: 45px;
 }
+
+.find{
+    grid-area: find;
+}
+
+.search{
+    grid-area: search;
+}
+
+.description{
+    grid-area: description;
+}
