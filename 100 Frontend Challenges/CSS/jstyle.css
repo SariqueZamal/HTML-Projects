@@ -29,6 +29,22 @@ body {
   color: grey;
 }
 
+#find{
+  width: 215px;
+  height: 21px;
+  border: none;
+  background-color: white;
+  padding-left: 23px;  
+}
+
+#localization{
+  width: 135px;
+  height: 21px;
+  border: none;
+  background-color: white;
+  padding-left: 23px;  
+}
+
 .search {
   grid-area: search;
   background-color: rgb(232, 230, 230);
