@@ -20,18 +20,21 @@ body {
   grid-area: find;
   background-color: rgb(232, 230, 230);
   padding: 10px;
+  border-radius: 13px;
 }
 
 .search {
   grid-area: search;
   background-color: rgb(232, 230, 230);
   padding: 10px;
+  border-radius: 13px;
 }
 
 .description {
   grid-area: description;
   background-color: white;
   padding: 10px;
+  border-radius: 13px;
 }
 
 .grid {
