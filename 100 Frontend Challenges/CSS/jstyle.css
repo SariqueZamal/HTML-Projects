@@ -18,7 +18,7 @@ body {
 
 .find {
   grid-area: find;
-  background-color: rgb(232, 230, 230);
+  background-color: rgb(243, 241, 241);
   padding: 10px;
   border-radius: 13px;
 }
@@ -61,7 +61,7 @@ body {
 
 .search {
   grid-area: search;
-  background-color: rgb(232, 230, 230);
+  background-color: rgb(243, 241, 241);
   padding: 10px;
   border-radius: 13px;
 }
