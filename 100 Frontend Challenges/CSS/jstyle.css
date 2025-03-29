@@ -43,6 +43,16 @@ body {
   border: none;
   background-color: white;
   padding-left: 23px;  
+  margin-left: -7px;
+}
+
+.find button{
+  width: 105px;
+  height: 21px;
+  border: none;
+  background-color: rgb(215, 91, 132);
+  color: white;
+  border-radius: 7px;
 }
 
 .search {
