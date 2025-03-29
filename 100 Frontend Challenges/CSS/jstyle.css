@@ -23,6 +23,12 @@ body {
   border-radius: 13px;
 }
 
+.find i{
+  position: absolute;
+  font-size: 11px;
+  color: grey;
+}
+
 .search {
   grid-area: search;
   background-color: rgb(232, 230, 230);
