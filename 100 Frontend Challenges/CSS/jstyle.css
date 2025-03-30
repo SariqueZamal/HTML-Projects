@@ -19,38 +19,38 @@ body {
 .find {
   grid-area: find;
   background-color: rgb(243, 241, 241);
-  padding: 10px;
+  padding: 10.5px;
   border-radius: 13px;
 }
 
-.find i{
+.find i {
   position: absolute;
   font-size: 11px;
   color: grey;
 }
 
-#find{
+#find {
   width: 215px;
   height: 25px;
   border: none;
   background-color: white;
-  padding-left: 23px;  
+  padding-left: 23px;
   border-top-left-radius: 7px;
   border-bottom-left-radius: 7px;
 }
 
-#localization{
+#localization {
   width: 135px;
   height: 25px;
   border: none;
   background-color: white;
-  padding-left: 19px;  
+  padding-left: 19px;
   margin-left: -7px;
   border-top-right-radius: 7px;
   border-bottom-right-radius: 7px;
 }
 
-.find button{
+.find button {
   width: 105px;
   height: 25px;
   border: none;
@@ -62,7 +62,7 @@ body {
 .search {
   grid-area: search;
   background-color: rgb(243, 241, 241);
-  padding: 10px;
+  padding: 10.5px;
   border-radius: 13px;
 }
 
@@ -119,10 +119,15 @@ body {
   gap: 10px;
 }
 
-.results img{
+.results img {
   width: 4%;
 }
 
-.search h5{
+.search h5 {
   float: left;
+  margin-right: 225px;
+}
+
+.search h6 {
+  margin: 1px 0 15px 0;
 }
