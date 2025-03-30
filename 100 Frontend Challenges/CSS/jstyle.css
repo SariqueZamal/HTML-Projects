@@ -118,3 +118,7 @@ body {
     "search search search search description description";
   gap: 10px;
 }
+
+.results img{
+  width: 4%;
+}
