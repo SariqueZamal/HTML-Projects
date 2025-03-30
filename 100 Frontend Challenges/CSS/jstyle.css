@@ -122,3 +122,7 @@ body {
 .results img{
   width: 4%;
 }
+
+.search h5{
+  float: left;
+}
