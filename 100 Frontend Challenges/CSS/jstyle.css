@@ -51,7 +51,7 @@ body {
 }
 
 .find button {
-  width: 105px;
+  width: 101px;
   height: 25px;
   border: none;
   background-color: rgb(215, 91, 132);
@@ -120,14 +120,22 @@ body {
 }
 
 .results img {
-  width: 4%;
+  width: 10%;
 }
 
 .search h4 {
   float: left;
-  margin-right: 202px;
+  margin-right: 195px;
 }
 
 .search h6 {
   margin: 1px 0 15px 0;
+}
+
+.job{
+  width: 45%;
+  height: 115px;
+  background-color: white;
+  margin: 0 7px 7px 0;
+  float: left;
 }
