@@ -13,13 +13,13 @@ body {
   width: 100%;
   height: 86vh;
   border-radius: 9px;
-  padding: 43px;
+  padding: 39px;
 }
 
 .find {
   grid-area: find;
   background-color: rgb(243, 241, 241);
-  padding: 10.5px;
+  padding: 13px;
   border-radius: 13px;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 
 #find {
-  width: 225px;
+  width: 233px;
   height: 25px;
   border: none;
   background-color: white;
@@ -40,7 +40,7 @@ body {
 }
 
 #localization {
-  width: 155px;
+  width: 165px;
   height: 25px;
   border: none;
   background-color: white;
@@ -51,25 +51,26 @@ body {
 }
 
 .find button {
-  width: 101px;
+  width: 109px;
   height: 25px;
   border: none;
   background-color: rgb(215, 91, 132);
   color: white;
   border-radius: 7px;
+  margin-left: 14px;
 }
 
 .search {
   grid-area: search;
   background-color: rgb(243, 241, 241);
-  padding: 10.5px;
+  padding: 13px;
   border-radius: 13px;
 }
 
 .description {
   grid-area: description;
   background-color: white;
-  padding: 10px;
+  padding: 13px;
   border-radius: 13px;
 }
 
