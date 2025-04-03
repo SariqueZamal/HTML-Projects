@@ -19,7 +19,7 @@ body {
 .find {
   grid-area: find;
   background-color: rgb(243, 241, 241);
-  padding: 13px 33px;
+  padding: 13px 25px;
   border-radius: 13px;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 #localization {
-  width: 165px;
+  width: 175px;
   height: 25px;
   border: none;
   background-color: white;
@@ -57,13 +57,13 @@ body {
   background-color: rgb(215, 91, 132);
   color: white;
   border-radius: 7px;
-  margin-left: 14px;
+  margin-left: 51px;
 }
 
 .search {
   grid-area: search;
   background-color: rgb(243, 241, 241);
-  padding: 15px 15px 15px 33px;
+  padding: 15px 3px 15px 25px;
   border-radius: 13px;
 }
 
@@ -126,7 +126,7 @@ body {
 
 .search h4 {
   float: left;
-  margin-right: 276px;
+  margin-right: 311px;
 }
 
 .search h6 {
@@ -134,9 +134,9 @@ body {
 }
 
 .job{
-  width: 46.2%;
-  height: 99px;
+  width: 46.5%;
+  height: 103px;
   background-color: white;
-  margin: 0 21px 17px 0;
+  margin: 0 17px 13px 0;
   float: left;
 }
