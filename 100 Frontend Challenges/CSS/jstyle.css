@@ -5,7 +5,7 @@
 }
 
 body {
-  padding: 39px 205px;
+  padding: 39px 175px;
 }
 
 .container {
@@ -13,13 +13,13 @@ body {
   width: 100%;
   height: 86vh;
   border-radius: 9px;
-  padding: 39px;
+  padding: 33px;
 }
 
 .find {
   grid-area: find;
   background-color: rgb(243, 241, 241);
-  padding: 13px;
+  padding: 13px 33px;
   border-radius: 13px;
 }
 
@@ -63,7 +63,7 @@ body {
 .search {
   grid-area: search;
   background-color: rgb(243, 241, 241);
-  padding: 13px;
+  padding: 15px 15px 15px 33px;
   border-radius: 13px;
 }
 
@@ -117,7 +117,7 @@ body {
     "search search search search description description"
     "search search search search description description"
     "search search search search description description";
-  gap: 10px;
+  gap: 11px;
 }
 
 .results img {
@@ -126,17 +126,17 @@ body {
 
 .search h4 {
   float: left;
-  margin-right: 195px;
+  margin-right: 276px;
 }
 
 .search h6 {
-  margin: 1px 0 15px 0;
+  margin: 1px 0 13px 0;
 }
 
 .job{
-  width: 45%;
+  width: 46.2%;
   height: 99px;
   background-color: white;
-  margin: 0 7px 7px 0;
+  margin: 0 21px 17px 0;
   float: left;
 }
