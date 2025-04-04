@@ -160,6 +160,8 @@ body {
 
 .job h6{
   color: grey;
+  font-size: 10px;
+  font-weight: 90;
 }
 
 .skill h6{
