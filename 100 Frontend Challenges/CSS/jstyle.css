@@ -5,15 +5,15 @@
 }
 
 body {
-  padding: 39px 175px;
+  padding: 21px 175px;
 }
 
 .container {
   background-color: rgb(172, 172, 172);
   width: 100%;
-  height: 86vh;
+  height: 93vh;
   border-radius: 9px;
-  padding: 33px;
+  padding: 27px;
 }
 
 .find {
@@ -116,6 +116,8 @@ body {
     "search search search search description description"
     "search search search search description description"
     "search search search search description description"
+    "search search search search description description"
+    "search search search search description description"
     "search search search search description description";
   gap: 11px;
 }
@@ -135,7 +137,7 @@ body {
 
 .job{
   width: 46.5%;
-  height: 107px;
+  height: 117px;
   background-color: white;
   margin: 0 17px 13px 0;
   float: left;
@@ -158,7 +160,6 @@ body {
 
 .job h6{
   color: grey;
-  margin-bottom: 9px;
 }
 
 .skill h6{
@@ -167,4 +168,5 @@ body {
   padding: 5px 9px;
   margin-right: 7px;
   border-radius: 13px;
+  font-size: 8px;
 }
