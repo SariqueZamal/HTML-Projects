@@ -121,7 +121,7 @@ body {
 }
 
 .results img {
-  width: 10%;
+  width: 75%;
 }
 
 .search h4 {
@@ -139,4 +139,13 @@ body {
   background-color: white;
   margin: 0 17px 13px 0;
   float: left;
+  padding: 13px;
+}
+
+.img{
+  width: 33px;
+  height: 33px;
+  background-color: rgb(214, 212, 212);
+  padding: 7px 1px 1px 7px;
+  border-radius: 5px;
 }
