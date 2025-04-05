@@ -194,15 +194,25 @@ body {
 }
 
 .description h5 {
-  margin-bottom: 13px;
+  margin-bottom: 7px;
 }
 
 .description h6 {
-  margin-bottom: 13px;
+  margin-bottom: 11px;
   color: grey;
   font-size: 10px;
 }
 
 .description .skill h6{
   font-size: 8px;
+}
+
+#applicants{
+  padding: 3px;
+  color: rgb(215, 91, 132);
+  background-color: rgb(219, 171, 187);
+  display: inline-block;
+  border-radius: 13px;
+  font-size: 9px;
+  margin-bottom: 15px;
 }
