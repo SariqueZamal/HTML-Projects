@@ -30,7 +30,7 @@ body {
 }
 
 #find {
-  width: 233px;
+  width: 253px;
   height: 25px;
   border: none;
   background-color: white;
@@ -57,7 +57,7 @@ body {
   background-color: rgb(215, 91, 132);
   color: white;
   border-radius: 7px;
-  margin-left: 51px;
+  margin-left: 59.5px;
 }
 
 .search {
@@ -132,7 +132,7 @@ body {
 
 .search h4 {
   float: left;
-  margin-right: 311px;
+  margin-right: 305px;
 }
 
 .search h6 {
@@ -146,6 +146,7 @@ body {
   margin: 0 21px 15px 0;
   float: left;
   padding: 13px;
+  border-radius: 11px;
 }
 
 .img{
