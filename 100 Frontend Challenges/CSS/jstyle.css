@@ -126,6 +126,10 @@ body {
   width: 75%;
 }
 
+.results{
+  padding-top: 9px;
+}
+
 .search h4 {
   float: left;
   margin-right: 311px;
@@ -137,7 +141,7 @@ body {
 
 .job{
   width: 46.5%;
-  height: 117px;
+  height: 113px;
   background-color: white;
   margin: 0 17px 13px 0;
   float: left;
