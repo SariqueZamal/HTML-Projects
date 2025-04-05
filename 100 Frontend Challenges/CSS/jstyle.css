@@ -208,11 +208,15 @@ body {
 }
 
 #applicants{
-  padding: 3px;
+  padding: 5px 3px;
   color: rgb(215, 91, 132);
   background-color: rgb(219, 171, 187);
   display: inline-block;
   border-radius: 13px;
   font-size: 9px;
   margin-bottom: 15px;
+}
+
+.description a{
+  color:rgb(215, 91, 132) ;
 }
