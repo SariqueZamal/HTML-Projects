@@ -1,9 +1,13 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    font-family: "Lucida Console", "Courier New", monospace;
-  }
-  
-  body {
-    padding: 45px 159px;
-  }
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+  padding: 45px 159px;
+}
+
+.container {
+  background-color: grey;
+}
