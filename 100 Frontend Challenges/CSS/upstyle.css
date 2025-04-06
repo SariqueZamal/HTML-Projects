@@ -5,9 +5,17 @@
 }
 
 body {
-  padding: 45px 159px;
+  padding: 45px 255px;
 }
 
 .container {
   background-color: grey;
+  width: 100%;
+  height: 85vh;
+  border-radius: 9px;
+  padding: 55px 325px;
+}
+
+img{
+    width: 70%;
 }
