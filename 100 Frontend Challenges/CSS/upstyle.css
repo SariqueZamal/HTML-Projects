@@ -28,7 +28,7 @@ body {
 
 .name h5 {
   float: left;
-  margin: 5.5px 11px 0 0;
+  margin-top: 5.5px;
 }
 
 .name h6 {
@@ -43,7 +43,7 @@ body {
   border-radius: 5px;
   font-size: 8px;
   float: left;
-  margin: 5px 81px 0 -9px ;
+  margin: 5px 81px 0 2px;
 }
 
 img {
@@ -51,4 +51,33 @@ img {
   float: left;
   margin-right: 9px;
   border-radius: 50%;
+}
+
+.details {
+  width: 17vw;
+  background-color: white;
+  padding: 7px 13px;
+  border-radius: 9px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.profile img {
+  width: 17%;
+  margin-right: 5px;
+}
+
+.profile h5 {
+  float: left;
+  margin-top: 3.5px;
+}
+
+#pro1 {
+  display: inline-block;
+  padding: 2px 2px 1px 2px;
+  background-color: rgb(173, 110, 231);
+  color: blue;
+  border: 1.5px solid blue;
+  border-radius: 5px;
+  font-size: 8px;
+  margin: 0 0 4px 2px;
 }
