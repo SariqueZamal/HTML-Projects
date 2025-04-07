@@ -18,34 +18,35 @@ body {
 
 .name {
   width: 17vw;
-  height: 7vh;
+  height: 6vh;
   background-color: white;
-  padding: 9px 7px 9px 13px;
+  padding: 7px 7px 7px 13px;
   margin-bottom: 19px;
+  border-radius: 9px;
 }
 
 .name h5 {
   float: left;
-  margin: 7px 11px 0 0;
+  margin: 5.5px 11px 0 0;
 }
 
 .name h6 {
-  margin-top: 5px;
+  margin-top: 3.5px;
 }
 
 #pro {
-  padding: 1px 2px;
+  padding: 2px 2px 1px 2px;
   background-color: rgb(173, 110, 231);
   color: blue;
   border: 1.5px solid blue;
   border-radius: 5px;
   font-size: 8px;
   float: left;
-  margin: 7px 77px 0 -9px ;
+  margin: 5px 81px 0 -9px ;
 }
 
 img {
-  width: 13%;
+  width: 11%;
   float: left;
   margin-right: 9px;
   border-radius: 50%;
